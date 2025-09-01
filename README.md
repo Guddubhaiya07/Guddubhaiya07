@@ -1,5 +1,4 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#fca311;">Lokendra Singh</span></h1>
+<h1 align="center">👋 Hi, I'm Lokendra Singh</h1>
 <h3 align="center">🚀 Data Analyst | Python | SQL | Power BI | Tableau</h3>
 
 <p align="center">
@@ -9,47 +8,44 @@
 ---
 
 ## ✨ About Me
-- 📊 Data Analyst with **hands-on experience** in Python, SQL, Excel, Power BI & Tableau.  
-- 💡 Passionate about **turning raw data into insights and decisions**.  
-- 🌱 Learning **Cloud & Advanced Analytics (OCI AI Foundations)**.  
-- 🎯 Currently working on **dashboards, KPI tracking, and predictive modeling**.  
+- 📊 Aspiring **Data Analyst** with hands-on experience in Python, SQL, Excel, Power BI & Tableau  
+- 💡 Passionate about **data cleaning, visualization & insights generation**  
+- 🌱 Learning **Cloud & Advanced Analytics (OCI AI Foundations)**  
+- 🎯 Skilled in **EDA, KPI tracking & dashboard development**  
 - ⚡ Fun fact: *I treat datasets like puzzles — always fun to solve!*  
 
 ---
 
-## 🏢 Experience
-- **Data Analyst Intern @ Learnomate Technology (Mar 2025 – Aug 2025)**  
-  🔹 Automated Power BI dashboards → reduced reporting time by **40%**  
-  🔹 Cleaned & transformed large datasets using Python & SQL  
-  🔹 Provided insights for **sales & operational KPIs**  
-
-- **Freelance Data Analyst (Oct 2024 – Present)**  
-  🔹 Participated in **10+ Kaggle competitions** (Cybersecurity, Finance, ML)  
-  🔹 Improved marketing ROI → reduced costs by **15%**  
-  🔹 Built end-to-end **ML & visualization projects**  
-
----
-
 ## 🚀 Projects
-- 📊 [CO2 Emissions Dashboard](https://github.com/Guddubhaiya07/CO2-Emissions-Dashboard) – Predictive analytics & visualization 🌍  
+- 📊 [CO2 Emissions Dashboard](https://github.com/Guddubhaiya07/CO2-Emissions-Dashboard) – Predictive analytics on global emissions  
 - 📚 [Library Management System](https://github.com/Guddubhaiya07/Library_Management_System) – SQL-based project  
 - 🤖 [Resume Screening for HR](https://github.com/Guddubhaiya07/Resume_screeningForHR) – Automated resume parser  
 - 🔗 Decentralized Transaction Tracker – *Aptos Web3 Hackathon 2025*  
 
 ---
 
-## 🎓 Certifications
-✅ **Data Analyst – Deloitte (2025)**  
-✅ **OCI AI Foundations Associate – Oracle (2025)**  
-✅ **5 Stars in MySQL – Hackerrank (2025)**  
-✅ **Data Analysis – Google (2022)**  
+## 📈 Growth Dashboards
+> Auto-updated daily via GitHub Actions  
+
+<div align="center">
+  <img src="./charts/profile_views.png" alt="GitHub profile views chart" width="95%"/>
+  <br/><br/>
+  <img src="./charts/linkedin_followers.png" alt="LinkedIn followers chart" width="95%"/>
+</div>
 
 ---
 
-## 🛠️ Skills & Tools
+## 🎓 Certifications
+- ✅ Data Analyst – Deloitte (2025)  
+- ✅ OCI AI Foundations Associate – Oracle (2025)  
+- ✅ 5 Stars in MySQL – HackerRank (2025)  
+- ✅ Data Analysis – Google (2022)  
+
+---
+
+## 🛠️ Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,pandas,numpy,tableau,powerbi,git,github,vscode,postman" /><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,pandas,numpy,tableau,powerbi,git,github,vscode,postman,html,css,js,react" />
 </p>
 
 ---
