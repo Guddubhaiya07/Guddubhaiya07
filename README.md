@@ -4,6 +4,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guddubhaiya07&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="profile-views"/>
 </p>
+## 📈 GitHub Profile Views
+> Auto-updated daily via GitHub Actions  
+
+<p align="center">
+  <img src="./charts/profile_views.png" alt="GitHub profile views chart" width="90%"/>
+</p>
 
 ---
 
