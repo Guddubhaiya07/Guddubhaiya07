@@ -27,11 +27,16 @@
 ## 📈 Growth Dashboards
 > Auto-updated daily via GitHub Actions  
 
-<div align="center">
-  <img src="./charts/profile_views.png" alt="GitHub profile views chart" width="95%"/>
-  <br/><br/>
-  <img src="./charts/linkedin_followers.png" alt="LinkedIn followers chart" width="95%"/>
-</div>
+### 🔹 GitHub Profile Views
+<p align="center">
+  <img src="./charts/profile_views.png" alt="GitHub profile views chart" width="90%"/>
+</p>
+
+### 🔹 LinkedIn Followers
+<p align="center">
+  <img src="./charts/linkedin_followers.png" alt="LinkedIn followers chart" width="90%"/>
+</p>
+
 
 ---
 
