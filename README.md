@@ -1,5 +1,10 @@
 <h1 align="center">👋 Hi, I'm Lokendra Singh</h1>
 <h3 align="center">🚀 Data Analyst | Python | SQL | Power BI | Tableau</h3>
+Artificial Intelligence (AI)
+    └── Machine Learning (ML)
+           └── Deep Learning (DL)
+                  └── Neural Networks (NN)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guddubhaiya07&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="profile-views"/>
