@@ -75,6 +75,28 @@ Artificial Intelligence (AI)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guddubhaiya07&theme=tokyonight" height="160"/>
 </p>
 
+<!--
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MAZHARMIK&show_icons=true&theme=radical"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MAZHARMIK"> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAZHARMIK&langs_count=10"> </p>
+-->
+
+<table>
+      <thead>
+            <tr>
+                  <th>
+                        <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MAZHARMIK&show_icons=true&theme=radical"></p>
+                  </th>
+                  <th>
+                        <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MAZHARMIK"> </p>
+                  </th>
+            </tr>
+      </thead>
+</table>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAZHARMIK&langs_count=10"> </p>
+
+
+<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" rel="nofollow"><img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;"></a>
 ---
 
 ## 🌐 Connect with Me
